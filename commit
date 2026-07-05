@@ -1,0 +1,3 @@
+# 📈 ANN for Linear Regression
+
+This project demonstrates how an Artificial Neural Network (ANN) can be used to solve a linear regression problem. The model is built using TensorFlow/Keras and trained to predict continuous numerical values. It includes data preprocessing, model architecture design, training, evaluation, and performance visualization to showcase the effectiveness of neural networks for regression tasks.
